@@ -1,0 +1,9 @@
+name: ShulkerShooter
+version: '1.2'
+main: com.ashkiano.shulkershooter.ShulkerShooter
+api-version: '1.16'
+author: AshKiano
+commands:
+  givesshooter:
+    description: Gives a Shulker Shooter to the player.
+    usage: /<command>
